@@ -33,7 +33,7 @@
         "codemirror": "^5.44.0",
         "core-js": "^2.5.4",
         "dayjs": "^1.8.8",
-        "gulp": "^3.9.1",
+        "gulp": "^4.0.2",
         "gulp-svg-sprite": "^1.4.0",
         "gulp-svgmin": "^1.2.4",
         "moment": "^2.24.0",
